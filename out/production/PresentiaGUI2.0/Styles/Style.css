@@ -1,0 +1,11 @@
+.root{
+    -fx-background-color: aliceblue;
+}
+
+.HBox{
+    -fx-background-color: blueviolet;
+}
+
+.FlowPane{
+    -fx-background-color: brown;
+}
